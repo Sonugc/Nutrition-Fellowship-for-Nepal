@@ -1,0 +1,30 @@
+
+.cover-container{
+    margin: 0px;
+    height: 500px;
+}
+.cover-content{
+    display: flex;
+}
+.coverpic{
+    height: 40vh;
+    width: 60vh;
+    padding: 0px;
+    margin-top: 8rem;
+}
+
+.cover-header{
+    font-weight:800 ;
+    font-size: 40px;
+    color: #135127;
+    margin-top: 12rem;
+    margin-left: 5rem;
+    padding-right: 14rem;
+
+}
+.cover-para{
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 1rem;
+    color: #135127;
+}
