@@ -9,7 +9,7 @@ function Navbar() {
       <nav className="navbar">
       <div className='navbar-container'>
             <Link to="/" className="navbar-logo">
-                 <img src= '\Nutrition-logo2 (2).png' alt ="Nutrition" className="logo-image" />
+                 <img src= '\Nutrition_logo333.png' alt ="Nutrition" className="logo-image" />
             </Link>
 
         </div>
